@@ -116,7 +116,7 @@ synthcity = [
     "pandas>=2.1.0",
     "patsy==0.5.6",
     "pgmpy==0.1.25",
-    "pillow==10.3.0",
+    "pillow==13.0.0",
     "preshed==3.0.9",
     "protobuf==4.25.3",
     "psutil==6.0.0",
