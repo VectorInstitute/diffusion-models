@@ -48,7 +48,7 @@ synthcity = [
     "blis==0.7.11",
     "brotli==1.2.1",
     "catalogue==2.0.10",
-    "certifi==2024.6.2",
+    "certifi==2026.10.18",
     "charset-normalizer==3.3.2",
     "cloudpathlib==0.18.1",
     "cloudpickle==2.2.1",
